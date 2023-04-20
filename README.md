@@ -8,6 +8,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Reyan-786&theme=python-dark)](https://git.io/streak-stats)
 
+My Tech Stack->  
 
-
-My Tech Stack -: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
