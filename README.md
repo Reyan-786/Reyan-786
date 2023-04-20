@@ -6,4 +6,4 @@
 - 🤝 I'm looking to collaborate on any Machine Learning Projects.
 - 📫 reach me out @ reyanabidin169@gmail.com
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reyan-786)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Reyan-786&theme=python-dark)](https://git.io/streak-stats)
