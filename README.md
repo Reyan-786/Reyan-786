@@ -4,7 +4,9 @@
 <hr/>
   
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Reyan-786&theme=python-dark)](https://git.io/streak-stats) -->
-<img src='http://github-readme-streak-stats.herokuapp.com?user=Reyan-786&theme=python-dark' align ='center'/>
+<div align ='center'>
+<img src='http://github-readme-streak-stats.herokuapp.com?user=Reyan-786&theme=python-dark'/>
+</div>
 <hr/>
 <h2 align='center'>My Tech Stack</h2>
 <hr/>
