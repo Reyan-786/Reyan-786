@@ -1,4 +1,4 @@
-![Header]('My github header image.png')
+![Header](./github.png)
 <hr/>
 <p align='center'>
   I am a 2nd year student pursuing my B.Tech in A.I 🎓 from Z.H.C.E.T, A.M.U. 🏢 I am a Big Time Machine Learning enthusiast who's always willing to learn and work across technologies and domains related to Machine Learning and Data Science💡. I love to explore new technologies and to apply whatever I am learning to solve real world problems. I am currently working on my backend developement skills.⚒️
