@@ -6,7 +6,7 @@
 - 📫 reach me out @ reyanabidin169@gmail.com
   
   
-<div align='center'>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Reyan-786&theme=python-dark)](https://git.io/streak-stats)</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Reyan-786&theme=python-dark)](https://git.io/streak-stats)
 
 <div align='center'>My Tech Stack</div>
 
