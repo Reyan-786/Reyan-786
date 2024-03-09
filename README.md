@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Neural_R.jpg" alt="Header" style="border-radius: 40px;" height = 400px width = 300px>
+  <img src="neural_R.jpg" alt="Header" style="border-radius: 40px;" height = 400px width = 300px>
 </p>
 
 ---
