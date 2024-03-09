@@ -2,9 +2,10 @@
 
 ---
 
-<p align='center'>
-  I am currently a junior, pursuing my Bachelors in A.I 🎓 from Z.H.C.E.T, A.M.U. 🏢 I am deeply passionate about Machine Learning and Data Science, constantly exploring new technologies and applying my knowledge to solve real-world problems. Dive into my journey as I navigate through the vast world of data and AI tech stacks.🛠
-</p>
+<div align="center">
+  <strong>👨‍🎓 Junior @ Z.H.C.E.T, A.M.U | Bachelors in A.I | Machine Learning & Data Science Enthusiast 👨‍💻</strong>
+  <p>On a journey to craft innovative and practical A.I solutions that <strong>really</strong> solves the problem.</p>
+</div>
 
 ---
 
