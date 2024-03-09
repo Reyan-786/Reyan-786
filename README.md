@@ -1,4 +1,4 @@
-![Header](./github2.png)
+![Header](https://cdn.pixabay.com/photo/2018/03/03/23/15/milky-way-3197677_960_720.jpg)
 
 ---
 
