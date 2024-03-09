@@ -1,4 +1,4 @@
-![Header]("./celestial2.png")
+![Header]("celestial2.png")
 
 ---
 
