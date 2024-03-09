@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="celestial2.png" alt="Header" style="border-radius: 40px;">
+  <img src="celestial2.png" alt="Header" style="border-radius: 40px;" height = 100px width = 100px>
 </p>
 
 ---
