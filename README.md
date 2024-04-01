@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="neural_R.jpg" alt="Header" style="border-radius: 40px;" height = 600px width = 700px>
-</p>
+<!--<p align="center"> --> 
+<!--   <img src="neural_R.jpg" alt="Header" style="border-radius: 40px;" height = 600px width = 700px> -->
+<!-- </p> -->
 
 ---
 
