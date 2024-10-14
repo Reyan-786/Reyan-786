@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <strong>👨‍🎓 Junior @ Z.H.C.E.T, A.M.U | Bachelors in A.I | Machine Learning Engineer | Data Scientist 👨‍💻</strong>
+  <strong>👨‍🎓 Senior @ Z.H.C.E.T, A.M.U | Bachelors in A.I | Machine Learning Engineer | Data Scientist 👨‍💻</strong>
   <p>On a journey to craft innovative and practical A.I solutions that <strong>really</strong> solves the problem.</p>
 </div>
 
