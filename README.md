@@ -1,11 +1,7 @@
-<!--<p align="center"> --> 
-<!--   <img src="neural_R.jpg" alt="Header" style="border-radius: 40px;" height = 600px width = 700px> -->
-<!-- </p> -->
-
 ---
 
 <div align="center">
-  <strong>👨‍🎓 Senior @ Z.H.C.E.T, A.M.U | Bachelors in A.I | Machine Learning Engineer | Data Scientist 👨‍💻</strong>
+  <strong> SWE @ TeleCRM  </strong>
   <p>On a journey to craft innovative and practical A.I solutions that <strong>really</strong> solves the problem.</p>
 </div>
 
